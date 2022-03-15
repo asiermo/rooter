@@ -1,4 +1,12 @@
-# Rooter
+# Rest api
 
-It's an api where you can delete, add and show data.
-![Snímek obrazovky pořízený 2022-03-14 14-56-18](https://user-images.githubusercontent.com/100837222/158186994-866c3970-e3a4-440d-a260-6f503ac6374a.png)
+I've have created a program to read request and show information, I mean, a rest api where Fakturoid will call it.
+![Snímek obrazovky pořízený 2022-03-15 13-50-32](https://user-images.githubusercontent.com/100837222/158389064-cc051229-2af2-44ba-8528-f154583a0688.png)
+
+
+# How to run the app
+Go to the terminal, locate on your project's folder. Write 'python manage.py runserver' and put in the internet browser 'localhost:8000/account/' and It will appear a Json document with all the information.
+
+![Snímek obrazovky pořízený 2022-03-15 14-36-00](https://user-images.githubusercontent.com/100837222/158389471-781791fa-b17e-4138-a7d9-02cb7026dc6f.png)
+
+
